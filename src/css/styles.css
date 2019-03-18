@@ -1,4 +1,27 @@
+/*DOM*/
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: helvetica;
+	font-weight: 700;
+}
 body {
 	background-color: black;
 	color:white;
+	height:100%;
+	width:100%;
 }
+
+/*CLASS*/
+
+/*ID*/
+#dvContain {
+	background-color: grey;
+	width: 800px;
+	height: 600px;
+	margin:50px auto;
+}
+
+/*MULTI*/
+
+/*KEYFRAMES*/
